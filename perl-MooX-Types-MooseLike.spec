@@ -4,7 +4,6 @@
 #
 %define		pdir	MooX
 %define		pnam	Types-MooseLike
-%include	/usr/lib/rpm/macros.perl
 Summary:	MooX::Types::MooseLike - some Moosish types and a type builder
 Name:		perl-MooX-Types-MooseLike
 Version:	0.28
