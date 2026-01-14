@@ -7,7 +7,7 @@
 Summary:	MooX::Types::MooseLike - some Moosish types and a type builder
 Name:		perl-MooX-Types-MooseLike
 Version:	0.28
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
