@@ -6,13 +6,13 @@
 %define		pnam	Types-MooseLike
 Summary:	MooX::Types::MooseLike - some Moosish types and a type builder
 Name:		perl-MooX-Types-MooseLike
-Version:	0.28
-Release:	3
+Version:	0.29
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/MooX/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	ba30a142740694c3a01457c452dc5fa6
+# Source0-md5:	0905b92c1b44578e05e7f08fa7adb9ee
 URL:		http://search.cpan.org/dist/MooX-Types-MooseLike/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
